@@ -16,7 +16,7 @@ Almost all feedback is short (longer feedback has 48 words).
 
 # Motivation
 
-I try fine-tuning LLM models to learn about LLM models and compare them with older structures like (e5 base)[https://github.com/CVHvn/Vietnamese-text-classification] (1 kind of Roberta). Almost LLM have the same way of fine-tuning, then we can reuse my code for other models or other datasets.
+I try fine-tuning LLM models to learn about LLM models and compare them with older structures like [e5 base](https://github.com/CVHvn/Vietnamese-text-classification) (1 kind of Roberta). Almost LLM have the same way of fine-tuning, then we can reuse my code for other models or other datasets.
 
 # How to use it
 
