@@ -28,7 +28,7 @@ Just run all my notebook.
 
 # Result and experience
 
-You can see data, label and prediction in this file [predict.xlsx](/COVID-19 Named Entity Recognition for Vietnamese/predict.xlsx).
+You can see data, label and prediction in this file predict.xlsx.
 
 The model can predict correctly for 65.1% of the samples when all entities of a given input match the labels exactly. Column bugs have value True if LLM output wrong format and I can't convert back to original format.
 
