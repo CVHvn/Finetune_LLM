@@ -28,7 +28,9 @@ Just run all my notebook.
 
 # Result and experience
 
-The model can predict correctly for 65.1% of the samples when all entities of a given input match the labels exactly.
+You can see data, label and prediction in this file [predict.xlsx](/COVID-19 Named Entity Recognition for Vietnamese/predict.xlsx).
+
+The model can predict correctly for 65.1% of the samples when all entities of a given input match the labels exactly. Column bugs have value True if LLM output wrong format and I can't convert back to original format.
 
 And this is result for each labels (model only predict poorly for JOB entities, other entities type will have good results)
 
